@@ -1,4 +1,3 @@
-T
 # 🎲 Tenzies
 
 A React + Vite dice game where you roll until all dice show the same value. Hold dice to freeze them between rolls and race to match all ten. Features state management, conditional rendering, accessibility support, and a confetti celebration on win.
